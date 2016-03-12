@@ -19,7 +19,7 @@ public class Box {
 		System.out.println("The Volume of the box"+x);
 		int x1=b.area();
 		System.out.println("The area of the box"+x1);
-		System.out.println("Added for GitHub");
+		System.out.println("Added for GitHub !");
 
 	}
 
