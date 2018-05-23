@@ -1,0 +1,7 @@
+dbs:
+    container_name: dbs
+    build: .
+    #external_links:
+    # - rabbitmq
+    env_file:
+      - ./env_variables.env
